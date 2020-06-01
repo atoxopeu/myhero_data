@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.11
 EXPOSE 5000
 MAINTAINER Julio Gomez "jgomez2@cisco.com"
 
