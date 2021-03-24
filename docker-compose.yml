@@ -2,7 +2,7 @@ version: '2'
 services:
   myhero-data:
     build: .
-    image: juliocisco/myhero-data
+    image: atoxo/myhero-data
     ports:
      - "15000:5000"
     volumes:
